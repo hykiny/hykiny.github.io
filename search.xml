@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>存档</title>
+    <url>/2020/03/18/%E5%AD%98%E6%A1%A3/</url>
+    <content><![CDATA[<h1 id="存档"><a href="#存档" class="headerlink" title="存档"></a>存档</h1><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&#123;% dplayer <span class="string">"url=https://files.catbox.moe/pjlf77.mp4"</span> <span class="string">"api=http://dplayer.daoapp.io"</span>  <span class="string">"id=9E2E3368B56CDBB4"</span> <span class="string">"loop=yes"</span> <span class="string">"theme=#FADFA3"</span> <span class="string">"autoplay=false"</span> <span class="string">"token=tokendemo"</span> %&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&#123;% dplayer <span class="string">"url=https://files.catbox.moe/bhwina.mp4"</span> <span class="string">"api=http://dplayer.daoapp.io"</span> <span class="string">"pic=http://devtest.qiniudn.com/若能绽放光芒.png"</span> <span class="string">"id=9E2E3368B56CDBB4"</span> <span class="string">"loop=yes"</span> <span class="string">"theme=#FADFA3"</span> <span class="string">"autoplay=false"</span> <span class="string">"token=tokendemo"</span> %&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&#123;% dplayer <span class="string">"url=https://files.catbox.moe/m0avym.mp4"</span> <span class="string">"api=http://dplayer.daoapp.io"</span> <span class="string">"pic=http://devtest.qiniudn.com/若能绽放光芒.png"</span> <span class="string">"id=9E2E3368B56CDBB4"</span> <span class="string">"loop=yes"</span> <span class="string">"theme=#FADFA3"</span> <span class="string">"autoplay=false"</span> <span class="string">"token=tokendemo"</span> %&#125;</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
     <title>镜头组接</title>
     <url>/2020/03/17/%E9%95%9C%E5%A4%B4%E7%BB%84%E6%8E%A5/</url>
     <content><![CDATA[<h1 id="镜头组接"><a href="#镜头组接" class="headerlink" title="镜头组接"></a>镜头组接</h1><p>  景别+动静+色调</p>
